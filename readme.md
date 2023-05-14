@@ -1,3 +1,7 @@
+
+
+
+![image](https://github.com/Nixx-A/React-search-movies/assets/71731922/d6325b9d-575b-463f-b23f-79b3a5710f3e)
 Enunciado
 Crea una aplicación para buscar películas
 
